@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;700&display=swap');
+
+.w-450 {
+	width: 450px;
+}
+.vh-100 {
+	min-height: 100vh;
+}
+
+.navbar{
+	background-color: #87CCFF;
+}
+
+nav img{
+	width: 40px;
+}
+
+.LoginReg{
+	background-color: #DDF3FF;
+}
+
+
